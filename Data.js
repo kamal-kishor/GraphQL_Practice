@@ -24,7 +24,7 @@ const UserList = [
     nationality: "Korea",
     friends: [
       {
-        id: 6,
+        id: 7,
         name: "sarah",
         username: "sarah121",
         age: 28,
@@ -44,13 +44,13 @@ const UserList = [
 
 const MovieList = [
   {
-    id: 1,
+    id: 101,
     name: "Bahubali",
     yearOfPublication: 2013,
     isInTheaters: false,
   },
-  { id: 2, name: "Khiladi", yearOfPublication: 2009, isInTheaters: true },
-  { id: 3, name: "the coder", yearOfPublication: 2035, isInTheaters: false },
-  { id: 4, name: "Hulk", yearOfPublication: 2016, isInTheaters: true },
+  { id: 102, name: "Khiladi", yearOfPublication: 2009, isInTheaters: true },
+  { id: 103, name: "the coder", yearOfPublication: 2035, isInTheaters: false },
+  { id: 104, name: "Hulk", yearOfPublication: 2016, isInTheaters: true },
 ];
 export { UserList, MovieList };
